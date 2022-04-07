@@ -5,7 +5,11 @@ public class ClassNew {
 		// TODO Auto-generated method stub
 		System.out.println("this is new class");
 		System.out.println("we are in develop branch");
+	
 
+	}
+	public void method() {
+		
 	}
 
 }
