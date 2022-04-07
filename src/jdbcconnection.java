@@ -37,7 +37,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\dell\\Documents\\web d
 			
 			
 			//System.out.println(rs.getString("username")+":"+rs.getString("password"));
-			
+			System.out.println("Hello updating x");
 		}
 
 	}
